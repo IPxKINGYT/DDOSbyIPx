@@ -19,7 +19,7 @@ To use the DRipper type the following commands in Termux:
 
 `pkg install python3 -y`
 
-`git clone https://github.com/palahsu/DDoS-Ripper.git`
+`git clone https://github.com/IPxKINGYT/DDOSbyIPx`
 
 `cd DDoS-Ripper`
 `$ ls`
@@ -83,10 +83,10 @@ Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://i
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/IPxKINGYT"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p><p align="left">
 <a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p><p align="left">
-<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+<a href="https://t.me/CYTRONIX_ADMIN"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left"> 
  
